@@ -9,7 +9,6 @@ NewsApp is a mobile application that allows users to discover, search, and save 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [Usage](#usage)
 - [Built With](#built-with)
 - [Authors](#authors)
 
