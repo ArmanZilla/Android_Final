@@ -1,4 +1,6 @@
 # NewsApp
+![lv_icon](https://github.com/user-attachments/assets/2a934cc4-a6bf-402f-9e4f-76d29ac4de1a)
+
 
 NewsApp is a mobile application that allows users to discover, search, and save their favorite news articles. Designed with an intuitive interface and robust functionality, the app integrates with NewsAPI to provide real-time news and employs the MVVM architecture to ensure efficient data handling and an engaging user experience.
 
@@ -28,10 +30,11 @@ NewsApp offers a comprehensive platform for staying up to date with current even
 - **Fragment-Based Navigation**: Smooth navigation across different sections of the app.
 - **MVVM Architecture**: Improve maintainability and scalability through the Model-View-ViewModel pattern.
 ## Screenshots
-![Home](https://github.com/user-attachments/assets/f6418438-e39e-48a8-94f4-47a874023fd9)
-![Article ](https://github.com/user-attachments/assets/c9bc6097-eaaf-477a-82f0-ef6d62e5eeca)
-![Screenshot_20241220_112046](https://github.com/user-attachments/assets/371c4d9d-71d1-4d84-b739-7dde88406c72)
-![Seach](https://github.com/user-attachments/assets/db188cfc-2d3e-4987-8707-dd11899df867)
+![HomePage](https://github.com/user-attachments/assets/5cecc109-e5f7-4a4c-956b-d85cc8f94017)
+![Article](https://github.com/user-attachments/assets/6a8d9c0a-55cb-45f6-b0da-a3f765259cb2)
+![Wishlist](https://github.com/user-attachments/assets/bd818a94-ef2e-4a15-bd29-93dcd1b6c1d0)
+![Search](https://github.com/user-attachments/assets/ec1a104b-b098-4c3a-8791-957cd5df1953)
+
 
 Include screenshots of the following:
 - Home Page
