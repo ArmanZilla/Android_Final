@@ -55,7 +55,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/NewsApp.git
+   git clone https://github.com/ArmanZilla/Android_Final.git
 
 ## Built With
 - Android Studio: IDE for Android development
