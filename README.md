@@ -1,63 +1,59 @@
-# News App
-NewsApp is a mobile application designed to deliver the latest news, allowing users to explore, search, and save articles of interest. With a clean and user-friendly interface, NewsApp ensures seamless navigation through news categories and personalized experiences. 
+# NewsApp
 
+NewsApp is a mobile application that allows users to discover, search, and save their favorite news articles. Designed with an intuitive interface and robust functionality, the app integrates with NewsAPI to provide real-time news and employs the MVVM architecture to ensure efficient data handling and an engaging user experience.
 
 ## Table of Contents
-- Introduction
-- Features
-- Screenshots
-- Getting Started
-- Prerequisites
-- Installation
-- Built With
-- Authors
-
+- [Introduction](#introduction)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Usage](#usage)
+- [Built With](#built-with)
+- [Authors](#authors)
 
 ## Introduction
-NewsApp provides a centralized platform for users to stay informed on global events. With core features like curated news lists, efficient search functionality, and the ability to save favorite articles, the app is designed for news enthusiasts who value simplicity and speed.
 
+NewsApp offers a comprehensive platform for staying up to date with current events worldwide. It consists of three primary pages:
 
+- **Home Page**: View the latest news from various sources in an organized layout.
+- **Wishlist**: Save and manage your favorite articles locally for easy access.
+- **Search**: Find articles by searching with keywords or topics.
 
 ## Features
-- Real-time News Updates: Stay informed with the latest news fetched from a trusted API.
-- Search Functionality: Quickly locate news articles by entering relevant keywords.
-- User Authentication: Secure login and signup functionalities.
-- Category Filtering: Browse news by categories such as technology, sports, politics, and more.
-
+- **Real-Time News**: Get the latest news with NewsAPI integration.
+- **Wishlist Management**: Save articles to a local Room database for offline access.
+- **Search Functionality**: Quickly search for articles by keywords or topics.
+- **User-Friendly Interface**: A responsive, intuitive design for seamless navigation.
+- **Fragment-Based Navigation**: Smooth navigation across different sections of the app.
+- **MVVM Architecture**: Improve maintainability and scalability through the Model-View-ViewModel pattern.
 ## Screenshots
-!photo_5413661171594160025_y !photo_5413661171594160024_y !photo_5413661171594160026_y !photo_5413661171594160027_y
+![Home](https://github.com/user-attachments/assets/f6418438-e39e-48a8-94f4-47a874023fd9)
+![Article ](https://github.com/user-attachments/assets/c9bc6097-eaaf-477a-82f0-ef6d62e5eeca)
+![Screenshot_20241220_112046](https://github.com/user-attachments/assets/371c4d9d-71d1-4d84-b739-7dde88406c72)
+![Seach](https://github.com/user-attachments/assets/db188cfc-2d3e-4987-8707-dd11899df867)
 
-
-
-
-
-
-
-
-
-
+Include screenshots of the following:
+- Home Page
+- Wishlist
+- Article
+- Search
 
 
 ## Getting Started
 
 ### Prerequisites
+Ensure you have the following installed:
 - Android SDK version 29 or higher
-- Android Build Tools version 29.0.3 or later
-- The latest version of Android Studio
+- Android Build Tools version 29.0.3
+- Latest version of Android Studio
 
 ### Installation
+
 1. Clone the repository:
-   
-Bash
-
-
-   git clone [https://github.com/ArmanZilla/Android_Final.git]
-   
-2. Open the project in Android Studio.
-3. Configure API keys for the news API and Firebase in local.properties or BuildConfig.
-4. Build and run the project on an emulator or physical device.
-
-
+   ```bash
+   git clone https://github.com/YourUsername/NewsApp.git
 
 ## Built With
 - Android Studio: IDE for Android development
@@ -73,3 +69,4 @@ Bash
 | № | Sudent ID | Student Name |
 |-------------|-------------|-------------|
 |  1   |  22B030358   |  Arman Zhilikbay   |
+
