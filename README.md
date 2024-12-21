@@ -68,7 +68,7 @@ Ensure you have the following installed:
 
 
 ## Authors
-| № | Sudent ID | Student Name |
+| № | Student ID | Student Name |
 |-------------|-------------|-------------|
 |  1   |  22B030358   |  Arman Zhilikbay   |
 
