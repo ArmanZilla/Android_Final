@@ -30,7 +30,6 @@ NewsApp offers a comprehensive platform for staying up to date with current even
 - **Fragment-Based Navigation**: Smooth navigation across different sections of the app.
 - **MVVM Architecture**: Improve maintainability and scalability through the Model-View-ViewModel pattern.
 ## Screenshots
-<img src="https://github.com/user-attachments/assets/ec1a104b-b098-4c3a-8791-957cd5df1953" alt="Image" width="300" height="200"/>
 ![HomePage](https://github.com/user-attachments/assets/5cecc109-e5f7-4a4c-956b-d85cc8f94017)
 ![Article](https://github.com/user-attachments/assets/6a8d9c0a-55cb-45f6-b0da-a3f765259cb2)
 ![Wishlist](https://github.com/user-attachments/assets/bd818a94-ef2e-4a15-bd29-93dcd1b6c1d0)
